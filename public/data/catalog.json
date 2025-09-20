@@ -1,0 +1,532 @@
+{
+  "subjects": [
+    {
+      "id": "tecnologia",
+      "name": "Tecnologia",
+      "chapters": [
+        {
+          "id": "tecnologia_cap1",
+          "title": "A1 - Fondamenti del disegno",
+          "file": "verifiche/TECNOLOGIA/capitolo1.csv"
+        },
+        {
+          "id": "tecnologia_cap2",
+          "title": "A2 - Costruzioni geometriche",
+          "file": "verifiche/TECNOLOGIA/capitolo2.csv"
+        },
+        {
+          "id": "tecnologia_cap3",
+          "title": "A3 - Proporzionamenti nel disegno",
+          "file": "verifiche/TECNOLOGIA/capitolo3.csv"
+        },
+        {
+          "id": "tecnologia_cap4",
+          "title": "B1 - Proiezioni ortogonali",
+          "file": "verifiche/TECNOLOGIA/capitolo4.csv"
+        },
+        {
+          "id": "tecnologia_cap5",
+          "title": "B2 - Assonometria",
+          "file": "verifiche/TECNOLOGIA/capitolo5.csv"
+        },
+        {
+          "id": "tecnologia_cap6",
+          "title": "C1 - Ribaltamento e sviluppo",
+          "file": "verifiche/TECNOLOGIA/capitolo6.csv"
+        },
+        {
+          "id": "tecnologia_cap7",
+          "title": "C2 - Sezioni e intersezioni",
+          "file": "verifiche/TECNOLOGIA/capitolo7.csv"
+        },
+        {
+          "id": "tecnologia_cap8",
+          "title": "C3 - Prospettiva",
+          "file": "verifiche/TECNOLOGIA/capitolo8.csv"
+        },
+        {
+          "id": "tecnologia_cap9",
+          "title": "C4 - Ombre",
+          "file": "verifiche/TECNOLOGIA/capitolo9.csv"
+        },
+        {
+          "id": "tecnologia_cap10",
+          "title": "D - Disegno e progettazione tecnologica",
+          "file": "verifiche/TECNOLOGIA/capitolo10.csv"
+        },
+        {
+          "id": "tecnologia_cap11",
+          "title": "E - Metrologia",
+          "file": "verifiche/TECNOLOGIA/capitolo11.csv"
+        },
+        {
+          "id": "tecnologia_cap12",
+          "title": "F1 - Materiali",
+          "file": "verifiche/TECNOLOGIA/capitolo12.csv"
+        },
+        {
+          "id": "tecnologia_cap13",
+          "title": "F2 - Antinfortunistica",
+          "file": "verifiche/TECNOLOGIA/capitolo13.csv"
+        },
+        {
+          "id": "tecnologia_cap14",
+          "title": "G - Lavorazioni e organizzazione aziendale",
+          "file": "verifiche/TECNOLOGIA/capitolo14.csv"
+        },
+        {
+          "id": "tecnologia_cap15",
+          "title": "H - AutoCAD",
+          "file": "verifiche/TECNOLOGIA/capitolo15.csv"
+        }
+      ]
+    },
+    {
+      "id": "storia",
+      "name": "Storia",
+      "chapters": [
+        {
+          "id": "storia_cap1",
+          "title": "UNITÀ 1 - La preistoria",
+          "file": "verifiche/STORIA/capitolo1.csv"
+        },
+        {
+          "id": "storia_cap2",
+          "title": "UNITÀ 2 - Le prime civiltà urbane",
+          "file": "verifiche/STORIA/capitolo2.csv"
+        },
+        {
+          "id": "storia_cap3",
+          "title": "UNITÀ 3 - La Grecia",
+          "file": "verifiche/STORIA/capitolo3.csv"
+        },
+        {
+          "id": "storia_cap4",
+          "title": "UNITÀ 4 - La Grecia delle poleis",
+          "file": "verifiche/STORIA/capitolo4.csv"
+        },
+        {
+          "id": "storia_cap5",
+          "title": "UNITÀ 5 - L’apogeo della Grecia",
+          "file": "verifiche/STORIA/capitolo5.csv"
+        },
+        {
+          "id": "storia_cap6",
+          "title": "UNITÀ 6 - La crisi della polis e l’ascesa della Macedonia",
+          "file": "verifiche/STORIA/capitolo6.csv"
+        },
+        {
+          "id": "storia_cap7",
+          "title": "UNITÀ 7 - L’Italia e Roma",
+          "file": "verifiche/STORIA/capitolo7.csv"
+        },
+        {
+          "id": "storia_cap8",
+          "title": "UNITÀ 8 - La regina del Mediterraneo",
+          "file": "verifiche/STORIA/capitolo8.csv"
+        },
+        {
+          "id": "storia_cap9",
+          "title": "UNITÀ 9 - La crisi della repubblica e le guerre civili",
+          "file": "verifiche/STORIA/capitolo9.csv"
+        }
+      ]
+    },
+    {
+      "id": "scienze",
+      "name": "Scienze della Terra",
+      "chapters": [
+        {
+          "id": "scienze_cap1",
+          "title": "UNITÀ 0 - Conoscenze di base per le Scienze della Terra",
+          "file": "verifiche/SCIENZE/capitolo1.csv"
+        },
+        {
+          "id": "scienze_cap2",
+          "title": "UNITÀ 1 - L’Universo",
+          "file": "verifiche/SCIENZE/capitolo2.csv"
+        },
+        {
+          "id": "scienze_cap3",
+          "title": "UNITÀ 2 - Il Sistema solare",
+          "file": "verifiche/SCIENZE/capitolo3.csv"
+        },
+        {
+          "id": "scienze_cap4",
+          "title": "UNITÀ 3 - La Terra e la Luna",
+          "file": "verifiche/SCIENZE/capitolo4.csv"
+        },
+        {
+          "id": "scienze_cap5",
+          "title": "UNITÀ 4 - L’atmosfera",
+          "file": "verifiche/SCIENZE/capitolo5.csv"
+        },
+        {
+          "id": "scienze_cap6",
+          "title": "UNITÀ 5 - Il clima e le sue variazioni",
+          "file": "verifiche/SCIENZE/capitolo6.csv"
+        },
+        {
+          "id": "scienze_cap7",
+          "title": "UNITÀ 6 - L’idrosfera",
+          "file": "verifiche/SCIENZE/capitolo7.csv"
+        },
+        {
+          "id": "scienze_cap8",
+          "title": "UNITÀ 7 - Minerali e rocce",
+          "file": "verifiche/SCIENZE/capitolo8.csv"
+        },
+        {
+          "id": "scienze_cap9",
+          "title": "UNITÀ 8 - I fenomeni vulcanici",
+          "file": "verifiche/SCIENZE/capitolo9.csv"
+        },
+        {
+          "id": "scienze_cap10",
+          "title": "UNITÀ 9 - I fenomeni sismici",
+          "file": "verifiche/SCIENZE/capitolo10.csv"
+        },
+        {
+          "id": "scienze_cap11",
+          "title": "UNITÀ 10 - La Tettonica delle placche",
+          "file": "verifiche/SCIENZE/capitolo11.csv"
+        },
+        {
+          "id": "scienze_cap12",
+          "title": "UNITÀ 11 - La storia della Terra",
+          "file": "verifiche/SCIENZE/capitolo12.csv"
+        }
+      ]
+    },
+    {
+      "id": "matematica",
+      "name": "Matematica",
+      "chapters": [
+        {
+          "id": "matematica_cap1",
+          "title": "Tema A - L’aritmetica e i fondamenti della matematica",
+          "file": "verifiche/MATEMATICA/capitolo1.csv"
+        },
+        {
+          "id": "matematica_cap2",
+          "title": "Tema B - Introduzione all’algebra",
+          "file": "verifiche/MATEMATICA/capitolo2.csv"
+        },
+        {
+          "id": "matematica_cap3",
+          "title": "Tema C - Dalle equazioni e disequazioni alle funzioni",
+          "file": "verifiche/MATEMATICA/capitolo3.csv"
+        },
+        {
+          "id": "matematica_cap4",
+          "title": "Tema D - Dalla divisione tra polinomi alle equazioni e disequazioni frazionarie",
+          "file": "verifiche/MATEMATICA/capitolo4.csv"
+        },
+        {
+          "id": "matematica_cap5",
+          "title": "Tema E - L’analisi dei dati",
+          "file": "verifiche/MATEMATICA/capitolo5.csv"
+        },
+        {
+          "id": "matematica_cap6",
+          "title": "Tema F - Le nozioni di base della geometria nel piano",
+          "file": "verifiche/MATEMATICA/capitolo6.csv"
+        }
+      ]
+    },
+    {
+      "id": "informatica",
+      "name": "Informatica",
+      "chapters": [
+        {
+          "id": "informatica_cap1",
+          "title": "Sezione A - Hardware e software",
+          "file": "verifiche/INFORMATICA/capitolo1.csv"
+        },
+        {
+          "id": "informatica_cap2",
+          "title": "Sezione B - Reti e web",
+          "file": "verifiche/INFORMATICA/capitolo2.csv"
+        },
+        {
+          "id": "informatica_cap3",
+          "title": "Sezione C - Documenti elettronici",
+          "file": "verifiche/INFORMATICA/capitolo3.csv"
+        },
+        {
+          "id": "informatica_cap4",
+          "title": "Sezione D - Algoritmi e programmazione",
+          "file": "verifiche/INFORMATICA/capitolo4.csv"
+        }
+      ]
+    },
+    {
+      "id": "fisica",
+      "name": "Fisica",
+      "chapters": [
+        {
+          "id": "fisica_cap1",
+          "title": "UNITÀ 0 - Strumenti matematici",
+          "file": "verifiche/FISICA/capitolo1.csv"
+        },
+        {
+          "id": "fisica_cap2",
+          "title": "UNITÀ 1 - La misura delle grandezze fisiche",
+          "file": "verifiche/FISICA/capitolo2.csv"
+        },
+        {
+          "id": "fisica_cap3",
+          "title": "UNITÀ 2 - La rappresentazione di dati e fenomeni",
+          "file": "verifiche/FISICA/capitolo3.csv"
+        },
+        {
+          "id": "fisica_cap4",
+          "title": "UNITÀ 3 - I vettori e le forze",
+          "file": "verifiche/FISICA/capitolo4.csv"
+        },
+        {
+          "id": "fisica_cap5",
+          "title": "UNITÀ 4 - L’equilibrio dei corpi solidi",
+          "file": "verifiche/FISICA/capitolo5.csv"
+        },
+        {
+          "id": "fisica_cap6",
+          "title": "UNITÀ 5 - L’equilibrio dei fluidi",
+          "file": "verifiche/FISICA/capitolo6.csv"
+        },
+        {
+          "id": "fisica_cap7",
+          "title": "UNITÀ 6 - Il moto rettilineo",
+          "file": "verifiche/FISICA/capitolo7.csv"
+        },
+        {
+          "id": "fisica_cap8",
+          "title": "UNITÀ 7 - Il moto nel piano",
+          "file": "verifiche/FISICA/capitolo8.csv"
+        },
+        {
+          "id": "fisica_cap9",
+          "title": "UNITÀ 8 - I principi della dinamica",
+          "file": "verifiche/FISICA/capitolo9.csv"
+        },
+        {
+          "id": "fisica_cap10",
+          "title": "UNITÀ 9 - Energia e lavoro",
+          "file": "verifiche/FISICA/capitolo10.csv"
+        },
+        {
+          "id": "fisica_cap11",
+          "title": "UNITÀ 10 - I principi di conservazione",
+          "file": "verifiche/FISICA/capitolo11.csv"
+        }
+      ]
+    },
+    {
+      "id": "diritto",
+      "name": "Diritto",
+      "chapters": [
+        {
+          "id": "diritto_cap1",
+          "title": "Sezione A - Il diritto, la norma giuridica e le persone",
+          "file": "verifiche/DIRITTO/capitolo1.csv"
+        },
+        {
+          "id": "diritto_cap2",
+          "title": "Sezione A - Lezione 1. Il diritto e la norma giuridica",
+          "file": "verifiche/DIRITTO/capitolo2.csv"
+        },
+        {
+          "id": "diritto_cap3",
+          "title": "Sezione A - Lezione 2. Dentro la norma giuridica",
+          "file": "verifiche/DIRITTO/capitolo3.csv"
+        },
+        {
+          "id": "diritto_cap4",
+          "title": "La costituzione italiana",
+          "file": "verifiche/DIRITTO/capitolo4.csv"
+        },
+        {
+          "id": "diritto_cap5",
+          "title": "Sezione A - Lezione 3. Il diritto e le persone",
+          "file": "verifiche/DIRITTO/capitolo5.csv"
+        },
+        {
+          "id": "diritto_cap6",
+          "title": "Sezione A - Lezione 4. La famiglia nell’ordinamento italiano",
+          "file": "verifiche/DIRITTO/capitolo6.csv"
+        },
+        {
+          "id": "diritto_cap7",
+          "title": "Sezione B - Lo Stato e la Costituzione italiana",
+          "file": "verifiche/DIRITTO/capitolo7.csv"
+        },
+        {
+          "id": "diritto_cap8",
+          "title": "Sezione B - Lezione 5. I caratteri generali dello Stato",
+          "file": "verifiche/DIRITTO/capitolo8.csv"
+        },
+        {
+          "id": "diritto_cap9",
+          "title": "Sezione B - Lezione 6. Forme di Stato e forme di Governo",
+          "file": "verifiche/DIRITTO/capitolo9.csv"
+        },
+        {
+          "id": "diritto_cap10",
+          "title": "Sezione B - Lezione 7. Dallo Statuto albertino alla Costituzione repubblicana",
+          "file": "verifiche/DIRITTO/capitolo10.csv"
+        },
+        {
+          "id": "diritto_cap11",
+          "title": "Sezione B - Lezione 8. I principi fondamentali",
+          "file": "verifiche/DIRITTO/capitolo11.csv"
+        },
+        {
+          "id": "diritto_cap12",
+          "title": "Sezione B - Lezione 9. Rapporti civili e rapporti etico-sociali",
+          "file": "verifiche/DIRITTO/capitolo12.csv"
+        },
+        {
+          "id": "diritto_cap13",
+          "title": "Sezione B - Lezione 10. Rapporti economici e rapporti politici",
+          "file": "verifiche/DIRITTO/capitolo13.csv"
+        },
+        {
+          "id": "diritto_cap14",
+          "title": "Sezione C - La ricchezza della nazione",
+          "file": "verifiche/DIRITTO/capitolo14.csv"
+        },
+        {
+          "id": "diritto_cap15",
+          "title": "Sezione C - Lezione 11. I temi dell’economia politica",
+          "file": "verifiche/DIRITTO/capitolo15.csv"
+        },
+        {
+          "id": "diritto_cap16",
+          "title": "Sezione C - Lezione 12. Il flusso circolare del reddito",
+          "file": "verifiche/DIRITTO/capitolo16.csv"
+        },
+        {
+          "id": "diritto_cap17",
+          "title": "Sezione C - Lezione 13. I prezzi e i costi",
+          "file": "verifiche/DIRITTO/capitolo17.csv"
+        },
+        {
+          "id": "diritto_cap18",
+          "title": "Sezione C - Lezione 14. I tipi di mercato",
+          "file": "verifiche/DIRITTO/capitolo18.csv"
+        },
+        {
+          "id": "diritto_cap19",
+          "title": "Sezione C - Lezione 15. L’impresa",
+          "file": "verifiche/DIRITTO/capitolo19.csv"
+        }
+      ]
+    },
+    {
+      "id": "chimica",
+      "name": "Chimica",
+      "chapters": [
+        {
+          "id": "chimica_cap1",
+          "title": "Unità 1 - Grandezze e misure",
+          "file": "verifiche/CHIMICA/capitolo1.csv"
+        },
+        {
+          "id": "chimica_cap2",
+          "title": "Unità 2 - Indaghiamo la materia",
+          "file": "verifiche/CHIMICA/capitolo2.csv"
+        },
+        {
+          "id": "chimica_cap3",
+          "title": "Unità 3 - La materia, come si trasforma",
+          "file": "verifiche/CHIMICA/capitolo3.csv"
+        },
+        {
+          "id": "chimica_cap4",
+          "title": "Unità 4 - Dalle leggi ponderali alla teoria atomica",
+          "file": "verifiche/CHIMICA/capitolo4.csv"
+        },
+        {
+          "id": "chimica_cap5",
+          "title": "Unità 5 - Il linguaggio della chimica",
+          "file": "verifiche/CHIMICA/capitolo5.csv"
+        },
+        {
+          "id": "chimica_cap6",
+          "title": "Unità 6 - All’interno dell’atomo",
+          "file": "verifiche/CHIMICA/capitolo6.csv"
+        },
+        {
+          "id": "chimica_cap7",
+          "title": "Unità 7 - La struttura atomica moderna",
+          "file": "verifiche/CHIMICA/capitolo7.csv"
+        },
+        {
+          "id": "chimica_cap8",
+          "title": "Unità 8 - La tavola periodica degli elementi",
+          "file": "verifiche/CHIMICA/capitolo8.csv"
+        },
+        {
+          "id": "chimica_cap9",
+          "title": "Unità 9 - Il legame chimico",
+          "file": "verifiche/CHIMICA/capitolo9.csv"
+        },
+        {
+          "id": "chimica_cap10",
+          "title": "Unità 10 - Le molecole si aggregano, i solidi e i liquidi",
+          "file": "verifiche/CHIMICA/capitolo10.csv"
+        },
+        {
+          "id": "chimica_cap11",
+          "title": "Unità 11 - I gas e le leggi che li governano",
+          "file": "verifiche/CHIMICA/capitolo11.csv"
+        },
+        {
+          "id": "chimica_cap12",
+          "title": "Unità 12 - Nomi e formule dei composti",
+          "file": "verifiche/CHIMICA/capitolo12.csv"
+        },
+        {
+          "id": "chimica_cap13",
+          "title": "Unità 13 - Le soluzioni",
+          "file": "verifiche/CHIMICA/capitolo13.csv"
+        },
+        {
+          "id": "chimica_cap14",
+          "title": "Unità 14 - Le reazioni chimiche",
+          "file": "verifiche/CHIMICA/capitolo14.csv"
+        },
+        {
+          "id": "chimica_cap15",
+          "title": "Unità 15 - Aspetti energetici delle reazioni chimiche",
+          "file": "verifiche/CHIMICA/capitolo15.csv"
+        },
+        {
+          "id": "chimica_cap16",
+          "title": "Unità 16 - Aspetti dinamici delle reazioni chimiche",
+          "file": "verifiche/CHIMICA/capitolo16.csv"
+        },
+        {
+          "id": "chimica_cap17",
+          "title": "Unità 17 - Le reazioni di trasferimento di protoni",
+          "file": "verifiche/CHIMICA/capitolo17.csv"
+        },
+        {
+          "id": "chimica_cap18",
+          "title": "Unità 18 - Le reazioni di trasferimento di elettroni",
+          "file": "verifiche/CHIMICA/capitolo18.csv"
+        },
+        {
+          "id": "chimica_cap19",
+          "title": "Unità 19 - I composti organici",
+          "file": "verifiche/CHIMICA/capitolo19.csv"
+        },
+        {
+          "id": "chimica_cap20",
+          "title": "Unità 20 - Le biomolecole",
+          "file": "verifiche/CHIMICA/capitolo20.csv"
+        }
+      ]
+    }
+  ]
+}
